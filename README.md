@@ -1,4 +1,4 @@
-# DANGER-MUSIC-OVERVIEW
+               # DANGER-MUSIC-OVERVIEW
 
 [Invite](https://discord.com/oauth2/authorize?client_id=870618120883150889&permissions=8&scope=bot) | [Vote](https://top.gg/bot/870618120883150889/vote) | [Join Support](https://discord.gg/dQhGWPt2RS) | [Website](https://dangermusic.github.io/)
 
@@ -79,3 +79,20 @@ GIVEAWAY - (3)
 MISCELLANEOUS - (8)
 
 ```24/7, adddj, removedj, prefix, reset, support, invite, website, vote```
+
+# Invite Danger Music
+◙ ```Invite Danger Music With Admin Perms``` [Danger Music](https://discord.com/oauth2/authorize?client_id=870618120883150889&permissions=8&scope=bot) [Recommended]
+
+◙ ```Invite Danger Music With Normal Perms``` [Danger Music](https://discord.com/api/oauth2/authorize?client_id=870618120883150889&permissions=171999358273&scope=bot)
+
+# Upvote On top.gg
+◙ ```Click To UpVote Danger Music On Top.gg```[Top.gg](https://top.gg/bot/870618120883150889/vote)
+
+# Join Support
+```Click To Join The Official Support Server```[Soul Development](https://discord.gg/dQhGWPt2RS)
+
+                 **225+ Servers**
+
+                **150000+ users**
+
+               **12500+ channels**
