@@ -91,8 +91,8 @@ MISCELLANEOUS - (8)
 # Join Support
 ```Click To Join The Official Support Server```[Soul Development](https://discord.gg/dQhGWPt2RS)
 
-                 **225+ Servers**
+                 225+ Servers
 
-                **150000+ users**
+                150000+ users
 
-               **12500+ channels**
+               12500+ channels
