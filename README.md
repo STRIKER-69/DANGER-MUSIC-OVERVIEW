@@ -2,11 +2,13 @@
 
 [Invite](https://discord.com/oauth2/authorize?client_id=870618120883150889&permissions=8&scope=bot) | [Vote](https://top.gg/bot/870618120883150889/vote) | [Join Support](https://discord.gg/dQhGWPt2RS) | [Website](https://dangermusic.github.io/)
 
-**Danger Music
+**Danger Music**
+
 2021's Best Music Bot with over 150 commands
 Invite the bot now and get into the melody of music!!**
 
-EXCLUSIVE FEATURES
+**EXCLUSIVE FEATURES**
+
 There are many Features in Danger Music! Every awesome features of this bot has been described below check it out 😉
 
 
